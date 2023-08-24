@@ -1,0 +1,19 @@
+.navbar-nav .nav-link.active{
+    color: white;
+    font-weight: bold;
+}
+.bg-custom-color {
+ background-color: rgba(0, 0, 0, 0.877);
+}
+.nav-link-custom{
+    color: white;
+    font-size: 20px;
+}
+
+.navbar-brand-custom{
+    color: white;
+}
+
+.navbar-toggler-custom{
+    background-color: white;
+}
